@@ -1,0 +1,12 @@
+1. import mysql data base
+name 'root'
+password 'root123456'
+
+2. run node Express "revel-market-server-master" use command npm install and nodemon server.js
+3. run react "react-mvc-master" use command npm install and npm install and npm start
+
+login  
+username admin
+password P@$$W0RD
+
+thank you........
